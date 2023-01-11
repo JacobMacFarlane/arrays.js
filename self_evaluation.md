@@ -1,0 +1,3 @@
+1. Im feeling pretty good with arrays so far. There is a lot of different information to learn but the more i deal with them and talk it out as i go the more i will unerstand
+2. I wish i could grasp all the different commands i could do dealing with arrays immeditaly butlike i said in answer one i will just learn and catch on as i go
+3. the only question i have would be what is the fastest way to learn all the different array methods? Would i just benefit from writing all of them down and having them near my computer?
